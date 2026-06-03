@@ -1,0 +1,34 @@
+[
+  {
+    "id": "predictions",
+    "name": "Predictions",
+    "slug": "predictions",
+    "description": "Make your picks for tournaments, players, and outcomes",
+    "icon": "🎯",
+    "order": 1
+  },
+  {
+    "id": "rankings",
+    "name": "Rankings",
+    "slug": "rankings",
+    "description": "Live rankings, standings, and qualification scenarios",
+    "icon": "📊",
+    "order": 2
+  },
+  {
+    "id": "polls",
+    "name": "Polls",
+    "slug": "polls",
+    "description": "Quick fan polls and voting tools",
+    "icon": "🗳️",
+    "order": 3
+  },
+  {
+    "id": "calculators",
+    "name": "Calculators",
+    "slug": "calculators",
+    "description": "Tournament odds, scenarios, and what-if calculations",
+    "icon": "🧮",
+    "order": 4
+  }
+]

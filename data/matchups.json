@@ -1,0 +1,12 @@
+[
+  { "id": "ger-esp", "label": "Germany vs Spain", "flags": "🇩🇪 vs 🇪🇸" },
+  { "id": "bra-arg", "label": "Brazil vs Argentina", "flags": "🇧🇷 vs 🇦🇷" },
+  { "id": "fra-eng", "label": "France vs England", "flags": "🇫🇷 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿" },
+  { "id": "por-ned", "label": "Portugal vs Netherlands", "flags": "🇵🇹 vs 🇳🇱" },
+  { "id": "ita-bel", "label": "Italy vs Belgium", "flags": "🇮🇹 vs 🇧🇪" },
+  { "id": "mar-fra", "label": "Morocco vs France", "flags": "🇲🇦 vs 🇫🇷" },
+  { "id": "jpn-ger", "label": "Japan vs Germany", "flags": "🇯🇵 vs 🇩🇪" },
+  { "id": "usa-bra", "label": "USA vs Brazil", "flags": "🇺🇸 vs 🇧🇷" },
+  { "id": "cro-arg", "label": "Croatia vs Argentina", "flags": "🇭🇷 vs 🇦🇷" },
+  { "id": "mex-arg", "label": "Mexico vs Argentina", "flags": "🇲🇽 vs 🇦🇷" }
+]

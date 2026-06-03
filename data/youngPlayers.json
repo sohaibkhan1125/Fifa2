@@ -1,0 +1,74 @@
+[
+  {
+    "id": "musiala",
+    "name": "Jamal Musiala",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "avatarColor": "avatar-gradient-1",
+    "initials": "JM",
+    "age": 22
+  },
+  {
+    "id": "yamal",
+    "name": "Lamine Yamal",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "avatarColor": "avatar-gradient-4",
+    "initials": "LY",
+    "age": 18
+  },
+  {
+    "id": "bellingham",
+    "name": "Jude Bellingham",
+    "country": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "avatarColor": "avatar-gradient-8",
+    "initials": "JB",
+    "age": 22
+  },
+  {
+    "id": "endrick",
+    "name": "Endrick",
+    "country": "Brazil",
+    "flag": "🇧🇷",
+    "avatarColor": "avatar-gradient-3",
+    "initials": "EN",
+    "age": 19
+  },
+  {
+    "id": "wirtz",
+    "name": "Florian Wirtz",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "avatarColor": "avatar-gradient-5",
+    "initials": "FW",
+    "age": 22
+  },
+  {
+    "id": "garnacho",
+    "name": "Alejandro Garnacho",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "avatarColor": "avatar-gradient-2",
+    "initials": "AG",
+    "age": 21
+  },
+  {
+    "id": "doue",
+    "name": "Désiré Doué",
+    "country": "France",
+    "flag": "🇫🇷",
+    "avatarColor": "avatar-gradient-7",
+    "initials": "DD",
+    "age": 20
+  },
+  {
+    "id": "guler",
+    "name": "Arda Güler",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "avatarColor": "avatar-gradient-6",
+    "initials": "AG",
+    "age": 21
+  }
+]

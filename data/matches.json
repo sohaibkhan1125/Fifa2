@@ -1,0 +1,112 @@
+[
+  {
+    "id": "match-1",
+    "matchNumber": 1,
+    "homeTeam": { "name": "Canada", "flag": "🇨🇦", "code": "CA" },
+    "awayTeam": { "name": "Mexico", "flag": "🇲🇽", "code": "MX" },
+    "date": "Thu, Jun 11, 2026",
+    "time": "20:00",
+    "stadium": "BMO Field",
+    "city": "Toronto, Canada",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-2",
+    "matchNumber": 2,
+    "homeTeam": { "name": "USA", "flag": "🇺🇸", "code": "US" },
+    "awayTeam": { "name": "Japan", "flag": "🇯🇵", "code": "JP" },
+    "date": "Fri, Jun 12, 2026",
+    "time": "19:00",
+    "stadium": "SoFi Stadium",
+    "city": "Los Angeles, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-3",
+    "matchNumber": 3,
+    "homeTeam": { "name": "France", "flag": "🇫🇷", "code": "FR" },
+    "awayTeam": { "name": "Australia", "flag": "🇦🇺", "code": "AU" },
+    "date": "Sat, Jun 13, 2026",
+    "time": "16:00",
+    "stadium": "AT&T Stadium",
+    "city": "Dallas, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-4",
+    "matchNumber": 4,
+    "homeTeam": { "name": "Brazil", "flag": "🇧🇷", "code": "BR" },
+    "awayTeam": { "name": "Morocco", "flag": "🇲🇦", "code": "MA" },
+    "date": "Sat, Jun 13, 2026",
+    "time": "19:00",
+    "stadium": "MetLife Stadium",
+    "city": "New York, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-5",
+    "matchNumber": 5,
+    "homeTeam": { "name": "Germany", "flag": "🇩🇪", "code": "DE" },
+    "awayTeam": { "name": "South Korea", "flag": "🇰🇷", "code": "KR" },
+    "date": "Sun, Jun 14, 2026",
+    "time": "13:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-6",
+    "matchNumber": 6,
+    "homeTeam": { "name": "Argentina", "flag": "🇦🇷", "code": "AR" },
+    "awayTeam": { "name": "Spain", "flag": "🇪🇸", "code": "ES" },
+    "date": "Sun, Jun 14, 2026",
+    "time": "20:00",
+    "stadium": "Rose Bowl",
+    "city": "Pasadena, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-7",
+    "matchNumber": 7,
+    "homeTeam": { "name": "England", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "code": "GB" },
+    "awayTeam": { "name": "Egypt", "flag": "🇪🇬", "code": "EG" },
+    "date": "Mon, Jun 15, 2026",
+    "time": "16:00",
+    "stadium": "Lumen Field",
+    "city": "Seattle, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-8",
+    "matchNumber": 8,
+    "homeTeam": { "name": "Portugal", "flag": "🇵🇹", "code": "PT" },
+    "awayTeam": { "name": "Netherlands", "flag": "🇳🇱", "code": "NL" },
+    "date": "Mon, Jun 15, 2026",
+    "time": "19:00",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-9",
+    "matchNumber": 9,
+    "homeTeam": { "name": "Italy", "flag": "🇮🇹", "code": "IT" },
+    "awayTeam": { "name": "Belgium", "flag": "🇧🇪", "code": "BE" },
+    "date": "Tue, Jun 16, 2026",
+    "time": "20:00",
+    "stadium": "Gillette Stadium",
+    "city": "Boston, USA",
+    "stage": "Group Stage"
+  },
+  {
+    "id": "match-10",
+    "matchNumber": 10,
+    "homeTeam": { "name": "Croatia", "flag": "🇭🇷", "code": "HR" },
+    "awayTeam": { "name": "Senegal", "flag": "🇸🇳", "code": "SN" },
+    "date": "Wed, Jun 17, 2026",
+    "time": "16:00",
+    "stadium": "BC Place",
+    "city": "Vancouver, Canada",
+    "stage": "Group Stage"
+  }
+]

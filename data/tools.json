@@ -1,0 +1,194 @@
+[
+  {
+    "id": "golden-boot",
+    "slug": "golden-boot",
+    "name": "Golden Boot Predictor",
+    "tagline": "Crown the top scorer of FIFA World Cup 2026",
+    "description": "Predict the top scorers and crown the Golden Boot winner of FIFA World Cup 2026.",
+    "shortDescription": "Predict the top scorers and crown the Golden Boot winner!",
+    "kind": "custom",
+    "categoryId": "predictions",
+    "tournament": "FIFA World Cup 2026",
+    "icon": "⚽",
+    "accent": "amber",
+    "status": "live",
+    "featured": true,
+    "keywords": ["golden boot", "top scorer", "fifa", "world cup 2026", "prediction", "football", "soccer", "leading scorer"],
+    "config": {},
+    "seo": {
+      "metaTitle": "Golden Boot Predictor 2026 — FIFA World Cup Top Scorer | PrimeTools",
+      "metaDescription": "Predict the FIFA World Cup 2026 Golden Boot winner. Rank the top scorers, share your prediction, and challenge friends.",
+      "sections": [
+        {
+          "heading": "What is the FIFA World Cup Golden Boot?",
+          "body": "The FIFA World Cup Golden Boot is the prestigious award given to the top scorer of the tournament. Awarded after every World Cup since 1930, it celebrates the player whose goal-scoring exploits have defined the competition. From Just Fontaine's record-breaking 13 goals in 1958 to Harry Kane's 6 goals in 2018, the Golden Boot is one of football's most coveted individual honors.\n\nWith the FIFA World Cup 2026 expanding to 48 teams and 104 matches across the United States, Canada, and Mexico, the race for the Golden Boot will be more competitive than ever. More games means more opportunities, and more nations means more elite strikers competing for the prize."
+        },
+        {
+          "heading": "How to use the Golden Boot Predictor",
+          "body": "Using the PrimeTools Golden Boot Predictor is simple and takes less than a minute. Browse the list of top scorer candidates from across the FIFA World Cup 2026 contenders. Tap the plus button to add a predicted goal to a player, or minus to remove one. The leaderboard automatically sorts in real time, so you can see exactly where your predicted Golden Boot winner stands.\n\nYou can also make bonus predictions for the World Cup Winner, Dark Horse Team, Biggest Upset, and Best Young Player. All your predictions save automatically to your browser, so you can come back anytime. When you're ready, hit Share to send your prediction to friends or Download PNG to save a beautifully branded image for social media."
+        },
+        {
+          "heading": "How the Golden Boot tiebreaker works",
+          "body": "The Golden Boot isn't always decided by goals alone. If two or more players are tied at the end of the tournament, FIFA applies a sequence of tiebreakers. First, the player with the most assists wins the award. If they remain tied, the player with the fewest minutes played wins — rewarding goal-scoring efficiency. And if all of those are still equal, the award is shared between the tied players.\n\nThis is exactly what happened in 1962 when six players tied with four goals each. It is rare, but the rules ensure that even ties have a fair resolution. When you make your prediction here, the leaderboard uses goal count as the primary sort, so you'll always see your top scorer at the top."
+        },
+        {
+          "heading": "Which players are favorites for the 2026 Golden Boot?",
+          "body": "Several elite strikers are early favorites for the 2026 Golden Boot. Kylian Mbappé enters as the consensus pick after his clutch performances in 2018 and 2022, where he scored 4 and 8 goals respectively. Erling Haaland brings club-football dominance for Norway. Harry Kane, the 2018 Golden Boot winner, will captain England again, while South American superstars Lautaro Martínez, Vinícius Júnior, and Julián Álvarez represent the Brazil and Argentina front lines.\n\nDon't sleep on the younger generation either — Jamal Musiala for Germany, Lamine Yamal for Spain, and Jude Bellingham for England all have the talent and ambition to take the crown. With 48 teams and expanded squads, expect surprise contenders from nations making their first deep World Cup runs."
+        },
+        {
+          "heading": "Share your prediction and challenge friends",
+          "body": "Once you've ranked your top scorers, share your prediction with the world. The PrimeTools Golden Boot Predictor generates a beautiful 1080x1080 image perfect for Instagram, X (formerly Twitter), or WhatsApp. Use the native share button to send it directly through your phone, or download the PNG to post wherever you like. Challenge your friends to make their own predictions and see who calls the Golden Boot winner correctly when the tournament begins on June 11, 2026."
+        }
+      ],
+      "faqs": [
+        { "question": "When is the FIFA World Cup 2026?", "answer": "The FIFA World Cup 2026 will be played from June 11 to July 19, 2026, across 16 cities in the United States, Canada, and Mexico. It is the first World Cup with 48 teams and 104 matches." },
+        { "question": "Who won the last Golden Boot?", "answer": "Kylian Mbappé won the 2022 Golden Boot with 8 goals at the World Cup in Qatar, finishing ahead of Lionel Messi (7) and Julián Álvarez (4)." },
+        { "question": "Does the Golden Boot go to the team that wins the World Cup?", "answer": "Not necessarily. The Golden Boot goes to the top individual scorer regardless of how their team performs. In 2022, Mbappé won it even though Argentina lifted the trophy." },
+        { "question": "How many goals usually win the Golden Boot?", "answer": "Recent Golden Boots have been won with 6-8 goals. James Rodríguez won with 6 in 2014, Harry Kane with 6 in 2018, and Kylian Mbappé with 8 in 2022. The all-time record is 13 by Just Fontaine in 1958." },
+        { "question": "Are my predictions saved if I close the browser?", "answer": "Yes. All predictions are automatically saved to your browser's local storage. As long as you return on the same device and browser without clearing your data, your predictions will be exactly as you left them." },
+        { "question": "Can I share my prediction on social media?", "answer": "Absolutely. Tap Share Predictions to use your device's native share menu, or Download PNG to save a branded 1080x1080 image perfect for Instagram stories, X, WhatsApp, or any other platform." },
+        { "question": "Is this tool free to use?", "answer": "Yes, the Golden Boot Predictor is completely free. No sign-up, no account, no payment — just open it and start predicting." }
+      ],
+      "relatedIds": ["world-cup-winner", "best-young-player", "dark-horse"]
+    }
+  },
+  {
+    "id": "world-cup-winner",
+    "slug": "world-cup-winner",
+    "name": "World Cup Winner Predictor",
+    "tagline": "Pick the FIFA World Cup 2026 champion",
+    "description": "Pick your champion, runner-up, and final four for the FIFA World Cup 2026.",
+    "shortDescription": "Pick your champion for the FIFA World Cup 2026!",
+    "kind": "custom",
+    "categoryId": "predictions",
+    "tournament": "FIFA World Cup 2026",
+    "icon": "🏆",
+    "accent": "primary",
+    "status": "live",
+    "featured": true,
+    "keywords": ["world cup winner", "champion", "fifa 2026", "prediction", "final four"],
+    "config": {},
+    "seo": {
+      "metaTitle": "World Cup Winner Predictor 2026 — Pick the FIFA Champion | PrimeTools",
+      "metaDescription": "Predict the FIFA World Cup 2026 winner. Pick your champion, runner-up, and final four. Share your bracket with friends.",
+      "sections": [
+        { "heading": "Pick the FIFA World Cup 2026 champion", "body": "Every four years, one nation lifts the FIFA World Cup trophy — the most prestigious prize in football. In 2026, the tournament expands to 48 teams competing across the United States, Canada, and Mexico. With more contenders than ever, predicting the winner becomes harder and more rewarding.\n\nThe PrimeTools World Cup Winner Predictor lets you pick your champion, runner-up, third, and fourth-place finishers. Tap a flag, see it added to your final four, and share your bracket before the tournament kicks off on June 11, 2026." },
+        { "heading": "Who are the favorites for 2026?", "body": "Argentina enters as defending champions after their dramatic 2022 victory over France. With Lionel Messi likely retired from international duty by 2026, much depends on whether Lautaro Martínez and Julián Álvarez can lead a new-generation Albiceleste. Brazil, perennial title contenders, will look to Vinícius Júnior, Rodrygo, and a rebuilt midfield. France, with Kylian Mbappé in his prime, remains the most complete squad on paper.\n\nDon't overlook hosts USA, Canada, and Mexico — playing at home historically boosts a team's odds by 15-25%. England, Spain, Germany, Portugal, and the Netherlands round out the elite European contenders." },
+        { "heading": "Tournament format and key dates", "body": "FIFA World Cup 2026 features 48 teams divided into 12 groups of 4. The top two from each group plus the eight best third-place teams advance to a 32-team knockout round. From there it's win or go home: Round of 32, Round of 16, Quarterfinals, Semifinals, and the Final in MetLife Stadium, New Jersey on July 19, 2026.\n\nGroup stage: June 11 - June 27, 2026. Round of 32: June 28 - July 3. Round of 16: July 4 - July 7. Quarterfinals: July 9 - July 11. Semifinals: July 14 - July 15. Third Place Playoff: July 18. Final: July 19." }
+      ],
+      "faqs": [
+        { "question": "How many teams compete in the FIFA World Cup 2026?", "answer": "48 teams will compete in the FIFA World Cup 2026, up from 32 in previous editions. This is the largest World Cup ever." },
+        { "question": "Where will the 2026 World Cup Final be played?", "answer": "The 2026 World Cup Final will be played at MetLife Stadium in East Rutherford, New Jersey, USA on July 19, 2026." },
+        { "question": "Who is the defending World Cup champion?", "answer": "Argentina won the 2022 FIFA World Cup, defeating France in a dramatic final that finished 3-3 and was decided on penalties." },
+        { "question": "Can I change my predictions later?", "answer": "Yes. Your picks save automatically to your browser. Come back anytime to update them — there's no deadline until the tournament begins." },
+        { "question": "Why pick a final four instead of just the winner?", "answer": "Picking your final four (champion, runner-up, third, fourth) makes the prediction more interesting and helps you really think through which four teams will go furthest. It also makes for a more detailed share image." }
+      ],
+      "relatedIds": ["golden-boot", "dark-horse", "best-young-player"]
+    }
+  },
+  {
+    "id": "best-young-player",
+    "slug": "best-young-player",
+    "name": "Best Young Player Predictor",
+    "tagline": "Crown the breakout star of the World Cup",
+    "description": "Vote for the breakout star under 21 who will light up the FIFA World Cup 2026.",
+    "shortDescription": "Vote for the breakout star of FIFA World Cup 2026",
+    "kind": "single-pick",
+    "categoryId": "predictions",
+    "tournament": "FIFA World Cup 2026",
+    "icon": "⭐",
+    "accent": "emerald",
+    "status": "live",
+    "featured": false,
+    "keywords": ["young player", "breakout star", "under 21", "fifa 2026"],
+    "config": {
+      "optionsRef": "youngPlayers",
+      "optionLabel": "Pick the breakout star",
+      "defaultPick": "musiala"
+    },
+    "seo": {
+      "metaTitle": "Best Young Player Predictor 2026 — World Cup Breakout Star | PrimeTools",
+      "metaDescription": "Predict the FIFA World Cup 2026 Best Young Player winner. Vote for the breakout star under 21 and share your pick.",
+      "sections": [
+        { "heading": "The FIFA Best Young Player Award", "body": "Every FIFA World Cup since 2006 has crowned a Best Young Player — the standout performer aged 21 or under at the start of the year. Past winners include Lukas Podolski (2006), Thomas Müller (2010), Paul Pogba (2014), Kylian Mbappé (2018), and Enzo Fernández (2022). Each one went on to become a generational talent at club and country level.\n\nThe award is widely seen as a glimpse into the future of the sport. Win the Best Young Player at 21, and you're almost certain to be a global superstar within four years. The PrimeTools Best Young Player Predictor lets you pick who you think will follow in Mbappé's and Pogba's footsteps in 2026." },
+        { "heading": "Top candidates for 2026", "body": "Jamal Musiala of Germany leads the early conversation. The Bayern Munich playmaker turns 23 in 2026, just sneaking in under the age limit, and his ability to break lines from midfield makes him a constant threat. Lamine Yamal, the Barcelona winger who debuted for Spain at 16, will be 19 in 2026 and is already one of the most talked-about young players on the planet.\n\nEndrick (Brazil, Real Madrid) and Désiré Doué (France) represent the next wave of South American and French talent respectively. Florian Wirtz of Germany and Arda Güler of Turkey round out a stacked field of potential breakout stars." }
+      ],
+      "faqs": [
+        { "question": "What is the age cutoff for the Best Young Player award?", "answer": "Players must be 21 or under at the start of the calendar year the World Cup begins. For 2026, that means players born on or after January 1, 2005." },
+        { "question": "Who won the last Best Young Player award?", "answer": "Enzo Fernández of Argentina won the 2022 Best Young Player award, playing a key role in their championship run." },
+        { "question": "Has anyone won both the Best Young Player and the Golden Boot?", "answer": "Yes, Kylian Mbappé came close in 2018 (won Best Young Player, finished joint top scorer with 4 goals but didn't win the Golden Boot on tiebreakers). It's extremely rare to win both." }
+      ],
+      "relatedIds": ["golden-boot", "world-cup-winner", "dark-horse"]
+    }
+  },
+  {
+    "id": "dark-horse",
+    "slug": "dark-horse",
+    "name": "Dark Horse Team Predictor",
+    "tagline": "Spot the underdog that shocks the world",
+    "description": "Pick the underdog nation that could shock the world at the FIFA World Cup 2026.",
+    "shortDescription": "Spot the underdog nation of the World Cup 2026",
+    "kind": "single-pick",
+    "categoryId": "predictions",
+    "tournament": "FIFA World Cup 2026",
+    "icon": "🐎",
+    "accent": "rose",
+    "status": "live",
+    "featured": false,
+    "keywords": ["dark horse", "underdog", "surprise team", "fifa 2026"],
+    "config": {
+      "optionsRef": "teams",
+      "optionLabel": "Pick the dark horse",
+      "defaultPick": "morocco"
+    },
+    "seo": {
+      "metaTitle": "Dark Horse Team Predictor 2026 — World Cup Underdog | PrimeTools",
+      "metaDescription": "Predict the FIFA World Cup 2026 dark horse — the underdog team most likely to surprise the world.",
+      "sections": [
+        { "heading": "What makes a World Cup dark horse?", "body": "Every World Cup has its dark horse — a team not ranked among the favorites but who exceeds all expectations. Morocco's run to the 2022 semifinals is the most recent and dramatic example. Before them, Croatia in 2018, South Korea in 2002, and Cameroon in 1990 wrote similar stories. These teams share traits: tactical discipline, an iconic manager, and a generation of players who peak together.\n\nThe PrimeTools Dark Horse Predictor lets you bet on the team you think will defy the odds in 2026. With 48 teams in the tournament, there are more candidates than ever — and more matches in which a surprise can emerge." },
+        { "heading": "Who are the 2026 dark horse candidates?", "body": "Morocco returns with confidence and a deeper squad than 2022. Senegal and Ghana represent the new wave of African football. Japan and South Korea have proven they can match elite European sides on their day. From the Americas, Ecuador and Mexico (playing at home) have realistic ambitions of reaching the quarterfinals.\n\nIn Europe, the Netherlands and Switzerland are dark horses despite their tradition — they're not favorites but always dangerous. Don't overlook newcomers benefiting from the expanded format: nations like New Zealand, Jordan, or Cape Verde could capture imaginations in their World Cup debut." }
+      ],
+      "faqs": [
+        { "question": "Has a dark horse ever won the World Cup?", "answer": "A true dark horse winning the World Cup is rare. The biggest surprise win was probably Uruguay in 1950 against Brazil. More recently, dark horses have reached semifinals (Morocco 2022, Croatia 2018) but the trophy still goes to the established powers." },
+        { "question": "Why does the expanded 48-team format favor dark horses?", "answer": "More group stage matches and an extra knockout round give underdogs more chances to upset favorites. Statistically, this benefits teams that play disciplined, low-scoring football." }
+      ],
+      "relatedIds": ["world-cup-winner", "golden-boot", "best-young-player"]
+    }
+  },
+  {
+    "id": "tournament-standings",
+    "slug": "tournament-standings",
+    "name": "Tournament Standings",
+    "tagline": "Live group standings and qualification scenarios",
+    "description": "Track live group-stage standings, points, and qualification scenarios for the FIFA World Cup 2026.",
+    "shortDescription": "Live group standings and qualification scenarios",
+    "kind": "custom",
+    "categoryId": "rankings",
+    "tournament": "FIFA World Cup 2026",
+    "icon": "📊",
+    "accent": "blue",
+    "status": "coming-soon",
+    "featured": false,
+    "keywords": ["standings", "rankings", "group stage", "qualification"],
+    "config": {},
+    "seo": { "metaTitle": "Tournament Standings 2026 — Live Group Stage | PrimeTools", "metaDescription": "Live FIFA World Cup 2026 group standings, points, and qualification scenarios.", "sections": [], "faqs": [], "relatedIds": ["golden-boot", "world-cup-winner"] }
+  },
+  {
+    "id": "match-poll",
+    "slug": "match-poll",
+    "name": "Match Day Poll",
+    "tagline": "Quick fan polls before every match",
+    "description": "Vote on every FIFA World Cup 2026 matchday — who wins, what's the score, who scores first.",
+    "shortDescription": "Vote on the matches you care about most",
+    "kind": "poll",
+    "categoryId": "polls",
+    "tournament": "FIFA World Cup 2026",
+    "icon": "🗳️",
+    "accent": "blue",
+    "status": "coming-soon",
+    "featured": false,
+    "keywords": ["poll", "vote", "matchday", "fifa 2026"],
+    "config": {},
+    "seo": { "metaTitle": "Match Day Poll 2026 — Vote on World Cup Matches | PrimeTools", "metaDescription": "Vote on every FIFA World Cup 2026 match.", "sections": [], "faqs": [], "relatedIds": ["golden-boot", "world-cup-winner"] }
+  }
+]
